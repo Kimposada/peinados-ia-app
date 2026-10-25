@@ -1,5 +1,5 @@
 Markdown
-# Sistema de Agendamiento Inteligente - Peinados a Domicilio (Fase 2)
+# Sistema de Agendamiento Inteligente - Peinados a Domicilio
 
 Proyecto de aplicación de IA Generativa desplegado para la gestión de citas y atención de clientes en el sector de belleza a domicilio.
 
